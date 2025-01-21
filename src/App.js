@@ -20,7 +20,7 @@ const App = () => {
   };
 
   return (
-    <div className="font-sans">
+    <div className="font-sans overflow-hidden">
       {/* Navbar */}
       <nav className="bg-white shadow-md fixed w-full z-10 top-0">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
