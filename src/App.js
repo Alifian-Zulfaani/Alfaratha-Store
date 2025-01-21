@@ -474,9 +474,10 @@ const App = () => {
               href="https://wa.me/+6281554431137"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block bg-green-700 text-white py-3 px-6 rounded-md shadow-md hover:bg-green-800 transition"
+              className="flex gap-3 bg-green-700 text-white py-3 px-6 rounded-md shadow-md hover:bg-green-800 transition"
             >
-              Hubungi Kami di WhatsApp
+              <img src="/whatsapp.png" className="w-6 aspect-square" />
+              <p>Hubungi Kami di WhatsApp</p>
             </a>
           </div>
         </div>
