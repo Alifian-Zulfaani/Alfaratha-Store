@@ -109,7 +109,7 @@ const App = () => {
       {/* Hero Section */}
       <section
         id="hero"
-        className="hero bg-gradient-to-r from-green-700 to-yellow-600 text-white py-32 px-8 md:px-16 lg:flex lg:items-center lg:justify-between mt-16"
+        className="hero bg-gradient-to-r from-green-700 to-yellow-600 text-white py-32 px-8 md:px-16 lg:flex lg:items-center lg:justify-between mt-13"
       >
         <div className="lg:max-w-lg" data-aos="fade-up">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
