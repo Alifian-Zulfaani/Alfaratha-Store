@@ -216,7 +216,7 @@ const App = () => {
             />
             <h3 className="text-xl font-semibold mb-2">Coklat Truffle</h3>
             <p className="text-gray-600">
-              Lezatnya coklat premium dengan sentuhan madu manis alami yang
+              Lezatnya coklat premium dengan sentuhan manis alami yang
               memanjakan lidah dan menyehatkan tubuh.
             </p>
           </div>
@@ -476,7 +476,11 @@ const App = () => {
               rel="noopener noreferrer"
               className="flex gap-3 bg-green-700 text-white py-3 px-6 rounded-md shadow-md hover:bg-green-800 transition"
             >
-              <img src="/whatsapp.png" className="w-6 aspect-square" />
+              <img
+                src="/whatsapp.png"
+                alt="whatsapp icon"
+                className="w-6 aspect-square"
+              />
               <p>Hubungi Kami di WhatsApp</p>
             </a>
           </div>
